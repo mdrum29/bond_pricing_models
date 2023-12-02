@@ -25,8 +25,4 @@ Hull-White Model
 
 #### Example of the code running.
 
-![image](https://github.com/mdrum29/bond_pricing_models/assets/96875916/0e010499-28a4-4893-99f9-d56dbb038082)
-
-
-
-
+![giphy](https://github.com/mdrum29/bond_pricing_models/assets/96875916/d097df4a-9eb0-435f-837a-8e8795743d77)
