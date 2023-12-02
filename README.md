@@ -2,8 +2,8 @@
 As of 12/1/23, the project includes binomial pricing model and a binomial pricing model with callable and putable options.
 
 ### To Do:
-Cox Ingersoll Model
-Hull-White Model
+1. Cox Ingersoll Model
+2. Hull-White Model
 
 
 ## Binomial Models:
